@@ -35,7 +35,7 @@ The dataset should be placed in the root directory of the project.
 2. What are the top 10 performing schools based on the combined SAT scores?
    - Save your results as a pandas DataFrame called top_10_schools containing the "school_name" and a new column named "total_SAT", with results ordered by "total_SAT" in descending order.
 
-3.Which single borough has the largest standard deviation in the combined SAT score?
+3. Which single borough has the largest standard deviation in the combined SAT score?
    - Save your results as a pandas DataFrame called largest_std_dev.
    - The DataFrame should contain one row, with:
         - "borough" - the name of the NYC borough with the largest standard deviation of "total_SAT".
